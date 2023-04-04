@@ -1,3 +1,4 @@
+package Seminar;
 import java.util.Random;
 
 public class Seminar2 {

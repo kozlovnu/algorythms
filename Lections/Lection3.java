@@ -1,3 +1,4 @@
+package Lections;
 public class Lection3 {
     Node head;
     Node tail;

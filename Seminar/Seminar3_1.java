@@ -1,3 +1,4 @@
+package Seminar;
 public class Seminar3_1 {
 
     public class LinkedList {

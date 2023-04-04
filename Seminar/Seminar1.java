@@ -1,3 +1,4 @@
+package Seminar;
 import java.sql.Date;
 import java.time.format.DateTimeFormatterBuilder;
 import java.util.ArrayList;
